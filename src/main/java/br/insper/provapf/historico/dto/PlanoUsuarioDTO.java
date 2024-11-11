@@ -6,7 +6,7 @@ public class PlanoUsuarioDTO {
     private String cpf;
 
     private String password;
-    private String papel;
+    private String papel; // ADMIN, DEVELOPER
 
     public PlanoUsuarioDTO() {
     }
